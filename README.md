@@ -17,7 +17,3 @@
 > BBn: 忙碌海狸数
 
 如果更多人喜欢我写的项目, 我会超级爆炸开心的。
-
----
-
-![lesbian](https://img.shields.io/badge/lesbian-%E2%9A%A2-A30262?labelColor=D52D00&style=flat-square)
